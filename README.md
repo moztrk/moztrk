@@ -1,12 +1,13 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33C4FF&background=00000000&center=true&vCenter=true&width=435&lines=Merhaba!+Ben+Mustafa+%C3%96zt%C3%BCrk;Yaz%C4%B1l%C4%B1m+M%C3%BChendisi+(@F%C4%B1rat+%C3%9Cniv.);AI+%26+NLP+Researcher;Full-Stack+Mobile+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33C4FF&background=00000000&center=true&vCenter=true&width=435&lines=Hello!+I'm+Mustafa+Ozturk;Selam!+Ben+Mustafa+%C3%96zt%C3%BCrk;Software+Engineering+Student;AI+%26+NLP+Researcher;Full-Stack+Mobile+Developer" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <h3>🧠 Veriyi Anlama, Modeli Eğitme, Çözümü Kodlama.</h3>
-  <p>Modern NLP tekniklerini ve Derin Öğrenme mimarilerini, ölçeklenebilir mobil ve web uygulamalarına entegre ediyorum.</p>
+  <h3>🧠 Understanding Data, Training Models, Coding Solutions.</h3>
+  <p><i>Veriyi Anlama, Modeli Eğitme, Çözümü Kodlama.</i></p>
+  <p>Integrating modern NLP techniques & Deep Learning architectures into scalable mobile/web apps.</p>
 </div>
 
 ---
@@ -15,13 +16,16 @@
 <tr>
 <td align="left" width="55%" valign="top" style="border: none;">
 
-### 👨‍💻 Hakkımda
-Akademik teoriyi pratik üretimle birleştirmeyi seviyorum. Özellikle **Doğal Dil İşleme (NLP)**, **Veri Bilimi** ve bu modellerin **Backend/Mobil** dünyasına entegrasyonu üzerine uzmanlaşıyorum.
+### 👨‍💻 About Me / Hakkımda
 
-- 🔭 Şu an odaklandığım: **DailyMind** (NLP Tabanlı Duygu Analizi) & **LGS Exam AI**.
-- 🌱 Derinleştiğim alanlar: **Transformer Mimarileri (BERT, GPT)** & **React Native Bridge**.
-- 💼 Deneyim: **ASP.NET Core & React** ile Full-Stack staj tecrübesi (Intellium).
-- 📫 İletişim: [moztrk4444@gmail.com](mailto:moztrk4444@gmail.com)
+**[EN]** I love bridging academic theory with practical production. I specialize in **Natural Language Processing (NLP)**, **Data Science**, and integrating these AI models into the **Backend/Mobile** ecosystems.
+
+**[TR]** Akademik teoriyi pratik üretimle birleştirmeyi seviyorum. Özellikle **Doğal Dil İşleme (NLP)**, **Veri Bilimi** ve bu modellerin **Backend/Mobil** dünyasına entegrasyonu üzerine uzmanlaşıyorum.
+
+- 🔭 **Focus:** **DailyMind** (NLP Mood Analysis) & **LGS Exam AI**.
+- 🌱 **Learning:** **Transformer Architectures (BERT, GPT)** & **React Native Bridge**.
+- 💼 **Experience:** Full-Stack Intern w/ **ASP.NET Core & React** (Intellium).
+- 📫 **Contact:** [moztrk4444@gmail.com](mailto:moztrk4444@gmail.com)
 
 </td>
 <td align="center" width="45%" style="border: none;">
@@ -49,31 +53,35 @@ Akademik teoriyi pratik üretimle birleştirmeyi seviyorum. Özellikle **Doğal 
 
 ---
 
-### 🚀 Öne Çıkan Projeler
+### 🚀 Featured Projects / Öne Çıkanlar
 
-#### 🧠 **DailyMind: Yapay Zeka Destekli Kişisel Analiz Motoru**
-Klasik günlük tutma anlayışını değiştiren, **NLP (Doğal Dil İşleme)** tabanlı bir mobil karar destek sistemi.
-> *Kullanıcının ne yazdığını değil, ne hissettiğini anlayan uygulama.*
+#### 🧠 **DailyMind: AI-Powered Personal Analysis Engine**
+*(Yapay Zeka Destekli Kişisel Analiz Motoru)*
+A mobile decision support system that transforms journaling using **NLP**.
+> *An app that understands not just what you write, but how you feel.*
 
-* **Teknoloji:** Python (FastAPI), React Native (Expo), Supabase, Scikit-learn.
-* **AI Çekirdeği:** * `BERT` ile Duygu Analizi (Sentiment Analysis).
-    * `SBERT` & `Cosine Similarity` ile Hibrit Konu Sınıflandırma.
-    * `Random Forest` ile Mod Tahminleme (Mood Prediction).
-* **Özellik:** Geçmiş verilere bakarak *"İş konuları pazartesi günleri modunu düşürüyor"* gibi kişisel içgörüler üretir.
+* **Tech:** Python (FastAPI), React Native (Expo), Supabase, Scikit-learn.
+* **AI Core:**
+    * `BERT` for Sentiment Analysis.
+    * `SBERT` & `Cosine Similarity` for Hybrid Topic Modeling.
+    * `Random Forest` for Mood Prediction.
+* **Insight:** Generates personal advice like *"Work topics tend to lower your mood on Mondays."*
 
-#### 📚 **LGS İngilizce Soru Tahmin Modeli (AI-Exam-Gen)**
-Eğitim teknolojileri alanında geliştirdiğim, geçmiş sınav verilerini analiz ederek yeni ve özgün soru şablonları üreten üretken yapay zeka projesi.
-* **Teknoloji:** GPT-2 / TinyLlama Fine-tuning, Python.
-* **Dataset:** 3.000+ satırlık analiz edilmiş LGS İngilizce soru veri seti.
-* **Hedef:** Sınav müfredatına %100 uyumlu, bağlamsal soru üretimi.
+#### 📚 **LGS English Question Generator (AI-Exam-Gen)**
+*(LGS İngilizce Soru Tahmin Modeli)*
+A Generative AI project analyzing past exam data to create unique, curriculum-aligned question templates.
+* **Tech:** GPT-2 / TinyLlama Fine-tuning, Python.
+* **Dataset:** 3,000+ analyzed rows of LGS English questions.
+* **Goal:** Generating context-aware questions 100% aligned with the curriculum.
 
 #### 🌦️ **MGM Weather Forecast (Time Series Analysis)**
-* MGM verilerini `Selenium` ile kazıyıp, `SARIMAX` modelleri ile zaman serisi tahmini yapan uçtan uca veri bilimi projesi.
-* Eksik veri işleme ve AIC/BIC değerlendirmeleri ile optimize edilmiş tahmin başarısı.
+*(MGM Hava Durumu Tahmini)*
+* End-to-end data science project scraping MGM data (`Selenium`) and forecasting with `SARIMAX` models.
+* Optimized prediction success via AIC/BIC evaluation and missing data handling.
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=moztrk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
@@ -90,7 +98,7 @@ Eğitim teknolojileri alanında geliştirdiğim, geçmiş sınav verilerini anal
   <a href="mailto:moztrk4444@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="[https://linkedin.com/in/mustafa-ozturk-linkin](https://www.linkedin.com/in/mustafa-öztürk-155643250/)">
+  <a href="https://www.linkedin.com/in/mustafa-öztürk-155643250/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/moztrk">
