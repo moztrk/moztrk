@@ -80,7 +80,7 @@ An offline counterpart to Gemini Deep Research: an autonomous agent that searche
     * RAG-like **semantic + keyword search** over PostgreSQL with multilingual `sentence-transformers`.
     * `vLLM` chosen for **PagedAttention** KV-cache management — higher throughput & batch concurrency on limited GPU memory.
 
-#### 🛡️ **Sentinel Moderation Engine** — Turkish Content Moderation Pipeline
+#### 🛡️ **[Sentinel Moderation Engine](https://github.com/moztrk/TextClassification)** — Turkish Content Moderation Pipeline
 *(Türkçe İçerik Moderasyon Hattı)*
 
 * Fine-tuned **BERTurk** on a curated 42K dataset for Turkish offensive language detection.
